@@ -16,6 +16,7 @@
   background-color: #ffd9df;
   margin: 20px auto;
   text-align: center;
+  position: relative;
 }
 #middle div{
   width: 200px;
